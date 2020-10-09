@@ -6,7 +6,7 @@ I'm a full-stack software developer (in-training) with a background in design an
 
 **🌱 I’m currently learning** React and D3
 
-## Technologies & Tools
+### Technologies & Tools
 
 ![Javascript](https://img.shields.io/badge/Code-Javascript-white)
 ![ruby](https://img.shields.io/badge/Code-Ruby-white)
@@ -24,6 +24,6 @@ I'm a full-stack software developer (in-training) with a background in design an
 ![Cloud](https://img.shields.io/badge/Cloud-AWS-white)
 
 
-## Contact
+### Contact
 
 [![Linkedin profile](https://img.shields.io/badge/Linkedin-Imogen%20Kraak-0077B5?style=social&logo=linkedin&?labelColor=fff)](http://linkedin.com/in/imogenkraak) *get in touch about work & collaboration opportunities*
