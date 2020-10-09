@@ -13,10 +13,13 @@ I'm a full-stack software developer (in-training) with a background in design an
 ![Jasmine](https://img.shields.io/badge/Test-Jasmine-white)
 ![Rspec](https://img.shields.io/badge/Test-Rspec-white)
 ![CI](https://img.shields.io/badge/CI-Travis-white)
-![PostreSQL](https://img.shields.io/badge/Tools-PostreSQL-white)
+![PostreSQL](https://img.shields.io/badge/Tools-PostgreSQL-white)
 ![MongoDB](https://img.shields.io/badge/Tools-MongoDB-white)
 ![Node](https://img.shields.io/badge/Tools-Node-white)
 ![CocoaPods](https://img.shields.io/badge/Tools-CocoaPods-white)
+![Firebase](https://img.shields.io/badge/Tools-Firebase-white)
+![Cloud](https://img.shields.io/badge/Cloud-AWS-white)
+
 
 ## Contact
 
