@@ -11,7 +11,7 @@ I'm a full-stack software developer (in-training) with a background in design an
 ![Javascript](https://img.shields.io/badge/Code-Javascript-white)
 ![ruby](https://img.shields.io/badge/Code-Ruby-white)
 ![sinatra](https://img.shields.io/badge/Frameworks-Sinatra-white)
-![rails](https://img.shields.io/badge/Frameworks-rails-white)
+![rails](https://img.shields.io/badge/Frameworks-Rails-white)
 ![Swift](https://img.shields.io/badge/Code-Swift-white)
 ![Jasmine](https://img.shields.io/badge/Test-Jasmine-white)
 ![Rspec](https://img.shields.io/badge/Test-Rspec-white)
