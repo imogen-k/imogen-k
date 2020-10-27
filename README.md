@@ -2,9 +2,9 @@
 
 I'm a full-stack software developer (in-training) with a background in design and product management, currently on the Software Engineering course at Makers Academy.
 
-**💻 I’m currently working on** the final two week project at Makers
+**💻 I’m currently working on** my personal website and a live server chat game
 
-**🌱 I’m currently learning** React and D3
+**🌱 I’m currently learning** React
 
 ### Technologies & Tools
 
