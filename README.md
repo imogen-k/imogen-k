@@ -13,7 +13,7 @@ I'm a junior full-stack software developer with a background in design, account 
 
 **💻 I’m currently working on** updating my personal website and building a live server virtual chat room
 
-**🌱 I’m currently learning** React
+**🌱 I’m currently learning** React and Three.js
 
 ### Technologies & Tools
 
