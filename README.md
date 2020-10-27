@@ -2,7 +2,7 @@
 
 I'm a full-stack software developer (in-training) with a background in design and product management, currently on the Software Engineering course at Makers Academy.
 
-**👩🏼‍💻 Currently looking for my first Junior Developer role **
+**👩🏼‍💻 Currently looking for my first Junior Developer role**
 
 **👩🏼‍🎨 Professional experience in** Design, Account Management and Product Development
 
