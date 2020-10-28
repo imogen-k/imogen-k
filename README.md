@@ -1,8 +1,6 @@
 ### Hey, I'm Imogen <img src="https://media.giphy.com/media/2skx2Ldp88JMhwAjzy/giphy.gif" width="30">
 
 
-I'm a junior full-stack software developer with a background in design, account management and product developement.
-
 <img align='right' src="https://media.giphy.com/media/KZ5UMDosaQf8PKwrmW/giphy.gif" width="230">
 
 **👩🏼‍💻 Currently looking for my first Junior Developer role**
