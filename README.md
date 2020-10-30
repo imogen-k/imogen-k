@@ -3,7 +3,7 @@
 
 <img align='right' src="https://media.giphy.com/media/KZ5UMDosaQf8PKwrmW/giphy.gif" width="230">
 
-**👩🏼‍💻 Currently looking for my first Junior Developer role**
+**👩🏼‍💻 Currently looking for a Junior Developer role**
 
 **👩🏼‍🎨 Professional experience in** Design, Account Management and Product Development
 
