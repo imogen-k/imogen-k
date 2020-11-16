@@ -34,3 +34,5 @@
 ### Contact
 
 [![Linkedin profile](https://img.shields.io/badge/Linkedin-Imogen%20Kraak-0077B5?style=social&logo=linkedin&?labelColor=fff)](http://linkedin.com/in/imogenkraak) *get in touch about work & collaboration opportunities*
+
+*To learn more about my experience take a look at [my GitHub CV](https://github.com/imogen-k/CV)*
